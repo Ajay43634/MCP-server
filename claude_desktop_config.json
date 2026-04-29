@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "notes-server": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.14/bin/python3",
+      "args": ["/Users/ajayrao/Desktop/MCP_Server/MCPServer/server.py"]
+    },
+    "github-server": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.14/bin/python3",
+      "args": ["/Users/ajayrao/Desktop/MCP_Server_github/server.py"]
+    },
+    "linkedin-assistant": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.14/bin/python3",
+      "args": ["/Users/ajayrao/Desktop/MCP_Server_Linkedin/server.py"]
+    }
+  },
+  "preferences": {
+    "coworkScheduledTasksEnabled": true,
+    "ccdScheduledTasksEnabled": true,
+    "sidebarMode": "chat",
+    "coworkWebSearchEnabled": true
+  }
+}
